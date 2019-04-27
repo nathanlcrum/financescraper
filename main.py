@@ -6,7 +6,6 @@ from csv import writer
 
 #TODO: check for  periods and change to dashes
 # check for 2020 as well
-# fix it so it runs faster (implement stringio)
 
 
 def main():
@@ -68,6 +67,7 @@ def main():
     # combine df and sp1500 for your final thingy
     output.seek(0)
     df = pd.read_csv(output)
+    df.to_csv('data.csv')
     sp1500 = pd.concat([sp1500, df], axis=1, join='inner')  # join and merge the two dataframes
     sp1500.to_csv('sp1500data.csv')
 
