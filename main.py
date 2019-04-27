@@ -1,12 +1,11 @@
 
 import pandas as pd
 from datetime import datetime
+import numpy as np
 
 
 #TODO: check for  periods and change to dashes
 # check for 2020 as well
-# fix it so it runs faster (implement stringio)
-# fix it so it can catch all errors and will never crash
 
 
 def main():
@@ -16,15 +15,15 @@ def main():
     sp1500 = pd.read_csv('sp1500list.csv')
     sp1500symbols = sp1500[['Symbol']]  # get the symbols for searching on yahoo finance
 
-
     urlbase = 'https://finance.yahoo.com/quote/'
-    df = pd.DataFrame()
-    columns = ['Ticker', 'Price', 'Shares Outstanding', 'Market Cap', 'Expected Growth - 5 Year', 'Last 12 Month Return',
+    columns = ['Ticker', 'Price', 'Shares Outstanding', 'Market Cap', 'Expected Growth - 5 Year',
+               'Last 12 Month Return',
                'Beta', 'Avg Current Estimate']
+    df = pd.DataFrame(index=np.arange(1510), columns=columns)
 
     for index, row in sp1500symbols.iterrows():
         symbol = row['Symbol']
-        print(symbol + index)
+        print(symbol + str(index))
 
         urlmain = urlbase + symbol + '?p=' + symbol
         urlstats = urlbase + symbol + '/key-statistics?p=' + symbol
@@ -57,12 +56,11 @@ def main():
             expectedepsfiveyear = adata[5][symbol][4]  # need to replace the HOG with the ticker symbol here
 
         except (ValueError, KeyError, IndexError) as e:
-            print(e + ' with ' + symbol)
+            print(str(e) + ' with ' + symbol)
 
         # append to some dataframe
-        stocklist = [(symbol, price, sharesos, marketcap, expectedepsfiveyear, twelvemonthreturn, beta, avgcurrest)]
-        row = pd.DataFrame.from_records(stocklist, columns=columns)
-        df.append(row)
+        stocklist = [symbol, price, sharesos, marketcap, expectedepsfiveyear, twelvemonthreturn, beta, avgcurrest]
+        df.loc[index] = stocklist
 
     # combine df and sp1500 for your final thingy
     sp1500 = pd.concat([sp1500, df], axis=1, join='inner')  # join and merge the two dataframes
