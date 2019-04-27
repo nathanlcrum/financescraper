@@ -16,7 +16,6 @@ def main():
     sp1500 = pd.read_csv('sp1500list.csv')
     sp1500symbols = sp1500[['Symbol']]  # get the symbols for searching on yahoo finance
 
-
     urlbase = 'https://finance.yahoo.com/quote/'
     df = pd.DataFrame()
     columns = ['Ticker', 'Price', 'Shares Outstanding', 'Market Cap', 'Expected Growth - 5 Year', 'Last 12 Month Return',
@@ -24,7 +23,7 @@ def main():
 
     for index, row in sp1500symbols.iterrows():
         symbol = row['Symbol']
-        print(symbol + index)
+        print(symbol + str(index))
 
         urlmain = urlbase + symbol + '?p=' + symbol
         urlstats = urlbase + symbol + '/key-statistics?p=' + symbol
