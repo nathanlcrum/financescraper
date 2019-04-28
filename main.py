@@ -3,19 +3,22 @@ import pandas as pd
 from io import StringIO
 from datetime import datetime
 from csv import writer
+import re
 
-#TODO: check for  periods and change to dashes
+#TODO:
 # check for 2020 as well
+#
 
 
 def main():
 
-    year = str(datetime.now().year)
+    year = datetime.now().year
     output = StringIO()
     csv_writer = writer(output)
 
     sp1500 = pd.read_csv('sp1500list.csv')
-    sp1500symbols = sp1500[['Symbol']]  # get the symbols for searching on yahoo finance
+    sp1500symbols = sp1500[['Symbol']].applymap(lambda x: re.sub("[.]", '-', str(x)))  # get the symbols for searching on yahoo finance
+    sp1500symbols.to_csv('symbols.csv')
 
     urlbase = 'https://finance.yahoo.com/quote/'
     df = pd.DataFrame()
@@ -54,7 +57,7 @@ def main():
 
             # read analysis url
             adata = pd.read_html(urla)
-            avgcurrest = adata[0]['Current Year (' + year + ')'][1]  # get the current year
+            avgcurrest = adata[0]['Current Year (' + str(year) + ')'][1]  # get the current year
             expectedepsfiveyear = adata[5][symbol][4]  # need to replace the HOG with the ticker symbol here
 
         except (ValueError, KeyError, IndexError) as e:
@@ -67,7 +70,6 @@ def main():
     # combine df and sp1500 for your final thingy
     output.seek(0)
     df = pd.read_csv(output)
-    df.to_csv('data.csv')
     sp1500 = pd.concat([sp1500, df], axis=1, join='inner')  # join and merge the two dataframes
     sp1500.to_csv('sp1500data.csv')
 
