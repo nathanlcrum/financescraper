@@ -6,7 +6,7 @@ from csv import writer
 import re
 
 #TODO:
-#
+
 
 
 def main():
@@ -15,11 +15,10 @@ def main():
     output = StringIO()
     csv_writer = writer(output)
 
-    sp1500 = pd.read_csv('sp1500list.csv')
+    sp1500 = pd.read_csv('sp1500list.csv', index_col=0) #make sure you dont have a duplicate index
     sp1500symbols = sp1500[['Symbol']].applymap(lambda x: re.sub("[.]", '-', str(x)))  # get the symbols for searching on yahoo finance
 
     urlbase = 'https://finance.yahoo.com/quote/'
-    df = pd.DataFrame()
     columns = ['Ticker', 'Price', 'Shares Outstanding', 'Market Cap', 'Expected Growth - 5 Year',
                'Last 12 Month Return', 'Beta', 'Avg Current Estimate']
     csv_writer.writerow(columns)
@@ -61,7 +60,7 @@ def main():
             except KeyError:
                 avgcurrest = adata[0]['Current Year (' + str(year+1) + ')'][1]  # get the current year +1 cuz yahoo is messed up
 
-        except (ValueError, IndexError) as e:
+        except (ValueError, KeyError, IndexError) as e:
             print(str(e) + ' with ' + symbol)
 
         # write to csv_writer

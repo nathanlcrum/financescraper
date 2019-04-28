@@ -58,7 +58,7 @@
 56,Assurant,AIZ,Financials,Multi-line Insurance,AIZ,92.31,61.68M,5.768B,19.40%,-0.55%,0.76,8.49
 57,Atmos Energy Corp,ATO,Utilities,Gas Utilities,ATO,101.49,116.89M,11.803B,6.40%,16.22%,0.25,4.3
 58,AT&T Inc.,T,Communication Services,Integrated Telecommunication Services,T,30.47,7.28B,223.491B,2.63%,-7.22%,0.82,3.57
-59,Autodesk Inc.,ADSK,Information Technology,Application Software,ADSK,175.37,219.54M,38.856B,,39.25%,1.43,
+59,Autodesk Inc.,ADSK,Information Technology,Application Software,ADSK,175.37,219.54M,38.856B,,39.25%,1.43,2.83
 60,Automatic Data Processing,ADP,Information Technology,Internet Services & Infrastructure,ADP,164.43,435.63M,71.313B,16.81%,38.77%,1.08,5.38
 61,AutoZone Inc,AZO,Consumer Discretionary,Specialty Stores,AZO,1023.29,24.89M,25.723B,12.48%,66.90%,0.8,61.67
 62,"AvalonBay Communities, Inc.",AVB,Real Estate,Residential REITs,AVB,201.43,138.32M,27.738B,2.54%,22.67%,0.73,4.71
@@ -70,8 +70,8 @@
 68,Baxter International Inc.,BAX,Health Care,Health Care Equipment,BAX,76.16,511.12M,38.937B,10.89%,9.71%,1.16,3.28
 69,BB&T Corporation,BBT,Financials,Regional Banks,BBT,50.27,765.92M,38.855B,3.84%,-4.91%,1.19,4.22
 70,Becton Dickinson,BDX,Health Care,Health Care Equipment,BDX,238.51,269.06M,64.069B,11.67%,2.40%,1.4,12.07
-71,Berkshire Hathaway,BRK.B,Financials,Multi-Sector Holdings,BRK.B,,,,,,,
-72,Best Buy Co. Inc.,BBY,Consumer Discretionary,Computer & Electronics Retail,BBY,72.41,267.8M,19.496B,,-3.58%,1.44,
+71,Berkshire Hathaway,BRK.B,Financials,Multi-Sector Holdings,BRK-B,211.85,1.37B,526.99B,23.30%,9.40%,0.73,10.28
+72,Best Buy Co. Inc.,BBY,Consumer Discretionary,Computer & Electronics Retail,BBY,72.41,267.8M,19.496B,,-3.58%,1.44,5.66
 73,Biogen Inc.,BIIB,Health Care,Biotechnology,BIIB,230.25,196.71M,45.347B,3.96%,-15.98%,1.85,29.03
 74,BlackRock,BLK,Financials,Asset Management & Custody Banks,BLK,475.11,154.5M,74.466B,6.51%,-9.02%,1.17,27.92
 75,Block H&R,HRB,Consumer Discretionary,Specialized Consumer Services,HRB,26.18,203.29M,5.454B,10.00%,-5.82%,0.18,1.94
@@ -83,7 +83,7 @@
 81,Bristol-Myers Squibb,BMY,Health Care,Health Care Distributors,BMY,46.08,1.63B,74.982B,7.55%,-12.45%,0.87,4.18
 82,Broadcom,AVGO,Information Technology,Semiconductors,AVGO,309.15,395.85M,122.875B,15.61%,35.92%,0.27,23.06
 83,Broadridge Financial Solutions,BR,Information Technology,Data Processing & Outsourced Services,BR,117.24,115.68M,13.642B,10.00%,9.19%,0.87,4.63
-84,Brown-Forman Corp.,BF.B,Consumer Staples,Distillers & Vintners,BF.B,,,,,,,
+84,Brown-Forman Corp.,BF.B,Consumer Staples,Distillers & Vintners,BF-B,52.88,308.05M,25.461B,9.44%,-6.01%,0.45,1.71
 85,C. H. Robinson Worldwide,CHRW,Industrials,Air Freight & Logistics,CHRW,88.7,137.36M,12.055B,8.19%,-3.75%,0.85,5.03
 86,Cabot Oil & Gas,COG,Energy,Oil & Gas Exploration & Production,COG,26.8,423.37M,11.287B,41.04%,8.78%,0.57,1.94
 87,Cadence Design Systems,CDNS,Information Technology,Application Software,CDNS,67.5,281.19M,19.183B,12.00%,68.47%,1.14,2.09
@@ -91,7 +91,7 @@
 89,Capital One Financial,COF,Financials,Consumer Finance,COF,90.7,469.34M,43.991B,6.10%,-2.84%,1.34,10.97
 90,Capri Holdings,CPRI,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",CPRI,44.43,150.71M,6.732B,6.77%,-34.93%,1.03,4.95
 91,Cardinal Health Inc.,CAH,Health Care,Health Care Distributors,CAH,47.05,298.02M,14.159B,4.92%,-26.99%,1.65,5.08
-92,Carmax Inc,KMX,Consumer Discretionary,Specialty Stores,KMX,76.28,166.19M,12.958B,,22.13%,1.11,
+92,Carmax Inc,KMX,Consumer Discretionary,Specialty Stores,KMX,76.28,166.19M,12.958B,,22.13%,1.11,5.1
 93,Carnival Corp.,CCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",CCL,54.08,527M,37.613B,11.05%,-14.64%,1.59,4.55
 94,Caterpillar Inc.,CAT,Industrials,Construction Machinery & Heavy Trucks,CAT,136.56,575.54M,80.018B,20.60%,-5.70%,1.35,12.32
 95,Cboe Global Markets,CBOE,Financials,Financial Exchanges & Data,CBOE,101.35,,11.344B,0.72%,,,4.64
@@ -130,7 +130,7 @@
 128,Concho Resources,CXO,Energy,Oil & Gas Exploration & Production,CXO,119.61,199.23M,23.531B,53.62%,-23.03%,1.46,4.27
 129,ConocoPhillips,COP,Energy,Oil & Gas Exploration & Production,COP,63.58,1.13B,71.051B,-1.40%,-2.34%,0.7,4.35
 130,Consolidated Edison,ED,Utilities,Electric Utilities,ED,85.37,326.95M,27.781B,3.04%,5.48%,0.25,4.33
-131,Constellation Brands,STZ,Consumer Staples,Distillers & Vintners,STZ,213,166.55M,40.068B,,-8.99%,0.68,
+131,Constellation Brands,STZ,Consumer Staples,Distillers & Vintners,STZ,213,166.55M,40.068B,,-8.99%,0.68,8.57
 132,The Cooper Companies,COO,Health Care,Health Care Supplies,COO,283.45,49.37M,14.235B,10.00%,23.08%,1.08,11.99
 133,Copart Inc,CPRT,Industrials,Diversified Support Services,CPRT,65.98,228.21M,15.258B,22.30%,28.74%,0.78,2.16
 134,Corning Inc.,GLW,Information Technology,Electronic Components,GLW,33.49,785.22M,26.423B,12.40%,24.20%,1.23,2.02
@@ -154,8 +154,8 @@
 152,Discovery Inc. Class A,DISCA,Communication Services,Broadcasting,DISCA,30.4,157.77M,22.55B,35.24%,28.41%,1.13,3.57
 153,Discovery Inc. Class C,DISCK,Communication Services,Broadcasting,DISCK,28.66,360.54M,22.686B,13.30%,28.53%,1.21,3.54
 154,Dish Network,DISH,Communication Services,Cable & Satellite,DISH,33.88,229.46M,16.278B,-35.11%,0.92%,1.75,2.42
-155,Dollar General,DG,Consumer Discretionary,General Merchandise Stores,DG,124.83,259.18M,32.465B,,30.92%,0.79,
-156,Dollar Tree,DLTR,Consumer Discretionary,General Merchandise Stores,DLTR,110.42,238.2M,26.188B,,15.51%,0.54,
+155,Dollar General,DG,Consumer Discretionary,General Merchandise Stores,DG,124.83,259.18M,32.465B,,30.92%,0.79,6.42
+156,Dollar Tree,DLTR,Consumer Discretionary,General Merchandise Stores,DLTR,110.42,238.2M,26.188B,,15.51%,0.54,5.32
 157,Dominion Energy,D,Utilities,Electric Utilities,D,76.81,799.4M,61.386B,4.66%,15.01%,0.19,4.21
 158,Dover Corp.,DOV,Industrials,Industrial Machinery,DOV,96.34,145.33M,14.101B,10.90%,28.50%,1.78,5.8
 159,Dow Inc.,DOW,Materials,Commodity Chemicals,DOW,55.3,748.77M,41.37B,,∞%,,4.92
@@ -203,14 +203,14 @@
 201,Flowserve Corporation,FLS,Industrials,Industrial Machinery,FLS,48.48,131.1M,6.433B,18.75%,9.21%,1.91,2.12
 202,Fluor Corp.,FLR,Industrials,Construction & Engineering,FLR,39.86,139.61M,5.548B,27.24%,-32.37%,2.1,2.78
 203,FMC Corporation,FMC,Materials,Fertilizers & Agricultural Chemicals,FMC,79.1,131.61M,10.462B,23.68%,14.23%,1.12,5.69
-204,Foot Locker Inc,FL,Consumer Discretionary,Apparel Retail,FL,60.22,112.31M,6.665B,,40.23%,1.2,
+204,Foot Locker Inc,FL,Consumer Discretionary,Apparel Retail,FL,60.22,112.31M,6.665B,,40.23%,1.2,5.19
 205,Ford Motor,F,Consumer Discretionary,Automobile Manufacturers,F,10.03,3.92B,41.531B,-8.25%,-16.37%,0.75,1.2
 206,Fortinet,FTNT,Information Technology,Systems Software,FTNT,93,170.63M,15.872B,25.20%,67.81%,1.05,2.08
 207,Fortive Corp,FTV,Industrials,Industrial Machinery,FTV,81.36,335.05M,28.556B,12.54%,24.86%,1.2,3.61
 208,Fortune Brands Home & Security,FBHS,Industrials,Building Products,FBHS,52.17,140.87M,7.376B,8.51%,-4.83%,1.75,3.63
 209,Franklin Resources,BEN,Financials,Asset Management & Custody Banks,BEN,35.61,509.51M,17.889B,-2.07%,5.35%,0.94,2.46
 210,Freeport-McMoRan Inc.,FCX,Materials,Copper,FCX,12.26,1.45B,18.113B,2.37%,-19.72%,1.48,0.47
-211,Gap Inc.,GPS,Consumer Discretionary,Apparel Retail,GPS,26.02,379.01M,9.923B,,-10.98%,0.4,
+211,Gap Inc.,GPS,Consumer Discretionary,Apparel Retail,GPS,26.02,379.01M,9.923B,,-10.98%,0.4,2.46
 212,Garmin Ltd.,GRMN,Consumer Discretionary,Consumer Electronics,GRMN,85.39,189.46M,16.256B,5.89%,46.09%,1.24,3.75
 213,Gartner Inc,IT,Information Technology,IT Consulting & Other Services,IT,158.48,89.95M,14.291B,14.17%,30.30%,1.65,3.97
 214,General Dynamics,GD,Industrials,Aerospace & Defense,GD,177.14,288.77M,51.421B,8.24%,-12.14%,1.46,11.71
@@ -238,7 +238,7 @@
 236,Hilton Worldwide Holdings Inc,HLT,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",HLT,87.94,292.3M,25.725B,17.80%,11.15%,1,3.85
 237,HollyFrontier Corp,HFC,Energy,Oil & Gas Refining & Marketing,HFC,49.17,170.76M,8.292B,-4.08%,-18.45%,1.16,4.8
 238,Hologic,HOLX,Health Care,Health Care Equipment,HOLX,45.17,291.29M,13.274B,8.04%,16.52%,1.02,2.41
-239,Home Depot,HD,Consumer Discretionary,Home Improvement Retail,HD,205.88,1.1B,224.529B,,11.74%,1.22,
+239,Home Depot,HD,Consumer Discretionary,Home Improvement Retail,HD,205.88,1.1B,224.529B,,11.74%,1.22,10.1
 240,Honeywell Int'l Inc.,HON,Industrials,Industrial Conglomerates,HON,170.16,727.74M,125.354B,6.89%,22.90%,1.24,8.08
 241,Hormel Foods Corp.,HRL,Consumer Staples,Packaged Foods & Meats,HRL,39.75,535.68M,21.395B,5.00%,9.41%,-0.11,1.8
 242,Host Hotels & Resorts,HST,Real Estate,Hotel & Resort REITs,HST,18.96,740.39M,14.347B,28.40%,-3.37%,1.28,0.83
@@ -281,10 +281,10 @@
 279,Kimco Realty,KIM,Real Estate,Retail REITs,KIM,17.81,422M,7.532B,4.60%,22.26%,0.73,0.67
 280,Kinder Morgan,KMI,Energy,Oil & Gas Storage & Transportation,KMI,19.96,2.26B,45.793B,6.23%,26.23%,1.16,1.01
 281,KLA-Tencor Corp.,KLAC,Information Technology,Semiconductor Equipment,KLAC,124.29,163.66M,20.587B,10.17%,23.27%,1.39,8.46
-282,Kohl's Corp.,KSS,Consumer Discretionary,General Merchandise Stores,KSS,71.1,163.17M,11.815B,,15.29%,0.66,
+282,Kohl's Corp.,KSS,Consumer Discretionary,General Merchandise Stores,KSS,71.1,163.17M,11.815B,,15.29%,0.66,6.05
 283,Kraft Heinz Co,KHC,Consumer Staples,Packaged Foods & Meats,KHC,32.7,1.22B,40.314B,-2.24%,-42.32%,0.81,2.83
-284,Kroger Co.,KR,Consumer Staples,Food Retail,KR,25.1,798.33M,19.958B,,2.30%,0.89,
-285,L Brands Inc.,LB,Consumer Discretionary,Apparel Retail,LB,25.88,275.2M,7.202B,,-25.81%,0.66,
+284,Kroger Co.,KR,Consumer Staples,Food Retail,KR,25.1,798.33M,19.958B,,2.30%,0.89,2.2
+285,L Brands Inc.,LB,Consumer Discretionary,Apparel Retail,LB,25.88,275.2M,7.202B,,-25.81%,0.66,2.39
 286,L-3 Communications Holdings,LLL,Industrials,Aerospace & Defense,LLL,214.21,79.31M,17.085B,9.45%,9.00%,1.29,11.41
 287,Laboratory Corp. of America Holding,LH,Health Care,Health Care Services,LH,154.89,98.68M,15.258B,7.99%,-9.39%,1.21,11.21
 288,Lam Research,LRCX,Information Technology,Semiconductor Equipment,LRCX,203,152.59M,31.494B,-1.97%,10.82%,1.41,13.89
@@ -297,11 +297,11 @@
 295,LKQ Corporation,LKQ,Consumer Discretionary,Distributors,LKQ,29.79,314.53M,9.449B,33.50%,-4.38%,1.56,2.4
 296,Lockheed Martin Corp.,LMT,Industrials,Aerospace & Defense,LMT,329.6,282.81M,92.854B,12.37%,2.50%,1.42,20.28
 297,Loews Corp.,L,Financials,Multi-line Insurance,L,49.69,306.4M,15.375B,19.71%,-5.30%,0.62,3.5
-298,Lowe's Cos.,LOW,Consumer Discretionary,Home Improvement Retail,LOW,113.49,795.92M,89.525B,,37.81%,1.43,
+298,Lowe's Cos.,LOW,Consumer Discretionary,Home Improvement Retail,LOW,113.49,795.92M,89.525B,,37.81%,1.43,6.06
 299,LyondellBasell,LYB,Materials,Specialty Chemicals,LYB,87.66,370.32M,32.592B,6.66%,-16.14%,1.22,10.35
 300,M&T Bank Corp.,MTB,Financials,Regional Banks,MTB,167.81,136.64M,23.086B,15.20%,-7.95%,1.22,14.55
 301,Macerich,MAC,Real Estate,Retail REITs,MAC,40.85,141.16M,6.226B,0.21%,-29.56%,1.13,0.28
-302,Macy's Inc.,M,Consumer Discretionary,Department Stores,M,23.85,308.26M,7.478B,,-22.34%,0.31,
+302,Macy's Inc.,M,Consumer Discretionary,Department Stores,M,23.85,308.26M,7.478B,,-22.34%,0.31,3.1
 303,Marathon Oil Corp.,MRO,Energy,Oil & Gas Exploration & Production,MRO,17.75,819.79M,14.248B,31.15%,-1.75%,1.7,0.67
 304,Marathon Petroleum,MPC,Energy,Oil & Gas Refining & Marketing,MPC,60.29,672.65M,40.621B,9.75%,-19.04%,1.08,5.67
 305,Marriott Int'l.,MAR,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",MAR,136.25,336.69M,45.942B,18.20%,-0.73%,1.14,6.09
@@ -347,14 +347,14 @@
 345,Nike,NKE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",NKE,87.95,1.26B,138.801B,14.03%,28.03%,0.95,2.54
 346,NiSource Inc.,NI,Utilities,Multi-Utilities,NI,27.96,372.97M,10.398B,4.83%,14.15%,0.33,1.31
 347,Noble Energy Inc,NBL,Energy,Oil & Gas Exploration & Production,NBL,26.9,479.02M,12.972B,21.28%,-19.45%,1.59,0.15
-348,Nordstrom,JWN,Consumer Discretionary,Department Stores,JWN,40.77,154.95M,6.414B,,-18.81%,0.39,
+348,Nordstrom,JWN,Consumer Discretionary,Department Stores,JWN,40.77,154.95M,6.414B,,-18.81%,0.39,3.75
 349,Norfolk Southern Corp.,NSC,Industrials,Railroads,NSC,203.18,266.79M,54.463B,13.74%,41.36%,1.4,10.68
 350,Northern Trust Corp.,NTRS,Financials,Asset Management & Custody Banks,NTRS,97.38,218.5M,21.352B,11.72%,-8.60%,1.06,6.73
 351,Northrop Grumman Corp.,NOC,Industrials,Aerospace & Defense,NOC,279.86,169.96M,48.12B,13.96%,-13.31%,1.07,19.01
 352,Norwegian Cruise Line,NCLH,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",NCLH,56.97,215.39M,12.335B,7.50%,6.23%,2.24,5.31
 353,NRG Energy,NRG,Utilities,Independent Power Producers & Energy Traders,NRG,41.07,278.98M,11.416B,41.40%,31.90%,0.27,3.57
 354,Nucor Corp.,NUE,Materials,Steel,NUE,57.38,304.78M,17.187B,-17.78%,-6.85%,1.52,5.92
-355,Nvidia Corporation,NVDA,Information Technology,Semiconductors,NVDA,180.71,608.49M,108.367B,,-16.89%,2.37,
+355,Nvidia Corporation,NVDA,Information Technology,Semiconductors,NVDA,180.71,608.49M,108.367B,,-16.89%,2.37,5.3
 356,O'Reilly Automotive,ORLY,Consumer Discretionary,Specialty Stores,ORLY,380.63,78.39M,29.785B,15.39%,48.40%,0.94,17.78
 357,Occidental Petroleum,OXY,Energy,Oil & Gas Exploration & Production,OXY,61.6,747.88M,45.852B,13.37%,-19.96%,1.15,3.74
 358,Omnicom Group,OMC,Communication Services,Advertising,OMC,80.46,220.17M,17.926B,3.00%,7.93%,0.18,5.91
@@ -387,7 +387,7 @@
 385,Public Serv. Enterprise Inc.,PEG,Utilities,Electric Utilities,PEG,59.3,505M,29.765B,5.50%,13.14%,0.46,3.26
 386,Public Storage,PSA,Real Estate,Specialized REITs,PSA,217.57,174.37M,38.229B,17.00%,7.44%,0.14,7.41
 387,Pulte Homes Inc.,PHM,Consumer Discretionary,Homebuilding,PHM,31.81,277.48M,8.73B,1.44%,4.31%,0.56,3.38
-388,PVH Corp.,PVH,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",PVH,130.02,75.15M,9.846B,,-18.56%,1.44,
+388,PVH Corp.,PVH,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",PVH,130.02,75.15M,9.846B,,-18.56%,1.44,10.43
 389,Qorvo,QRVO,Information Technology,Semiconductors,QRVO,73.85,122.79M,9.208B,10.83%,14.69%,0.95,5.61
 390,Quanta Services Inc.,PWR,Industrials,Construction & Engineering,PWR,40.27,142.08M,5.764B,10.09%,23.57%,1.42,3.45
 391,QUALCOMM Inc.,QCOM,Information Technology,Semiconductors,QCOM,84.51,1.21B,104.861B,6.70%,66.77%,0.92,3.86
@@ -395,7 +395,7 @@
 393,Raymond James Financial Inc.,RJF,Financials,Investment Banking & Brokerage,RJF,90.21,141.04M,12.658B,8.37%,0.51%,1.41,7.14
 394,Raytheon Co.,RTN,Industrials,Aerospace & Defense,RTN,178.03,280.22M,49.72B,13.19%,-13.45%,1.29,11.61
 395,Realty Income Corporation,O,Real Estate,Retail REITs,O,70.39,303.8M,21.469B,7.80%,38.74%,0.28,1.37
-396,Red Hat Inc.,RHT,Information Technology,Systems Software,RHT,182.3,176.76M,32.239B,,11.80%,-0.29,
+396,Red Hat Inc.,RHT,Information Technology,Systems Software,RHT,182.3,176.76M,32.239B,,11.80%,-0.29,3.96
 397,Regency Centers Corporation,REG,Real Estate,Retail REITs,REG,67.56,167.52M,11.343B,9.10%,14.56%,0.66,1.51
 398,Regeneron,REGN,Health Care,Biotechnology,REGN,351.25,106.89M,37.392B,11.48%,15.25%,1.13,22.98
 399,Regions Financial Corp.,RF,Financials,Regional Banks,RF,15.49,1.01B,15.752B,9.00%,-17.27%,1.6,1.57
@@ -405,9 +405,9 @@
 403,Rockwell Automation Inc.,ROK,Industrials,Electrical Components & Equipment,ROK,176.22,119.54M,21.33B,8.61%,7.11%,1.5,9.02
 404,Rollins Inc.,ROL,Industrials,Environmental & Facilities Services,ROL,39.34,327.53M,12.806B,8.20%,20.91%,0.85,0.77
 405,Roper Technologies,ROP,Industrials,Industrial Conglomerates,ROP,348.75,103.61M,36.52B,3.00%,31.40%,1.1,12.34
-406,Ross Stores,ROST,Consumer Discretionary,Apparel Retail,ROST,98.32,367.44M,36.211B,,21.24%,0.8,
+406,Ross Stores,ROST,Consumer Discretionary,Apparel Retail,ROST,98.32,367.44M,36.211B,,21.24%,0.8,4.52
 407,Royal Caribbean Cruises Ltd,RCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",RCL,121.36,209.19M,25.345B,12.40%,11.62%,1.93,9.97
-408,Salesforce.com,CRM,Information Technology,Internet Software & Services,CRM,162.42,774.87M,128.598B,,34.80%,1.05,
+408,Salesforce.com,CRM,Information Technology,Internet Software & Services,CRM,162.42,774.87M,128.598B,,34.80%,1.05,2.69
 409,SBA Communications,SBAC,Real Estate,Specialized REITs,SBAC,199.68,113.07M,22.736B,85.31%,24.53%,0.57,1.02
 410,Schlumberger Ltd.,SLB,Energy,Oil & Gas Equipment & Services,SLB,42.95,1.38B,59.97B,21.30%,-36.84%,1.69,1.58
 411,Seagate Technology,STX,Information Technology,"Technology Hardware, Storage & Peripherals",STX,44.27,279.25M,12.563B,5.56%,-20.42%,1.98,4.64
@@ -434,16 +434,16 @@
 432,T. Rowe Price Group,TROW,Financials,Asset Management & Custody Banks,TROW,107.79,236.71M,25.576B,3.34%,-5.41%,0.99,7.41
 433,Take-Two Interactive,TTWO,Communication Services,Interactive Home Entertainment,TTWO,93.41,105.77M,10.18B,21.34%,-6.83%,1.14,4.79
 434,"Tapestry, Inc.",TPR,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",TPR,31.03,289.98M,9.178B,5.72%,-42.72%,1.02,2.58
-435,Target Corp.,TGT,Consumer Discretionary,General Merchandise Stores,TGT,77.12,516.33M,39.82B,,12.59%,1.05,
+435,Target Corp.,TGT,Consumer Discretionary,General Merchandise Stores,TGT,77.12,516.33M,39.82B,,12.59%,1.05,5.83
 436,TE Connectivity Ltd.,TEL,Information Technology,Electronic Manufacturing Services,TEL,95.39,338.26M,31.969B,10.40%,4.10%,0.98,5.52
 437,TechnipFMC,FTI,Energy,Oil & Gas Equipment & Services,FTI,24.64,447.67M,11.187B,23.70%,-26.37%,1.14,1.35
 438,Teleflex Inc,TFX,Health Care,Health Care Equipment,TFX,281.14,46.07M,12.994B,13.85%,5.01%,1.24,11.03
 439,Texas Instruments,TXN,Information Technology,Semiconductors,TXN,116,938.62M,110.015B,8.04%,15.52%,1.12,5.18
 440,Textron Inc.,TXT,Industrials,Aerospace & Defense,TXT,53.4,233.85M,12.534B,14.48%,-14.16%,1.79,3.71
 441,Thermo Fisher Scientific,TMO,Health Care,Health Care Equipment,TMO,270,399M,109.016B,11.13%,28.14%,1.3,12.19
-442,Tiffany & Co.,TIF,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",TIF,104.63,121.42M,13.082B,,1.94%,1.28,
+442,Tiffany & Co.,TIF,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",TIF,104.63,121.42M,13.082B,,1.94%,1.28,4.98
 443,"Twitter, Inc.",TWTR,Communication Services,Interactive Media & Services,TWTR,38.59,765.68M,29.609B,34.73%,26.95%,-0.17,1.06
-444,TJX Companies Inc.,TJX,Consumer Discretionary,Apparel Retail,TJX,54.88,1.21B,66.875B,,29.83%,0.86,
+444,TJX Companies Inc.,TJX,Consumer Discretionary,Apparel Retail,TJX,54.88,1.21B,66.875B,,29.83%,0.86,2.61
 445,Torchmark Corp.,TMK,Financials,Life & Health Insurance,TMK,86.71,110.31M,9.597B,7.90%,-0.22%,1.1,6.68
 446,Total System Services,TSS,Information Technology,Internet Software & Services,TSS,99.49,177.4M,17.861B,12.75%,18.59%,1,4.87
 447,Tractor Supply Company,TSCO,Consumer Discretionary,Specialty Stores,TSCO,105.1,121.11M,12.732B,11.41%,54.50%,1.22,4.7
@@ -454,7 +454,7 @@
 452,Twenty-First Century Fox Class B,FOX,Communication Services,Movies & Entertainment,FOX,37.8,266.17M,23.707B,9.20%,4.35%,,2.05
 453,Tyson Foods,TSN,Consumer Staples,Packaged Foods & Meats,TSN,73.76,295.26M,27.088B,3.30%,5.02%,0.59,5.93
 454,UDR Inc,UDR,Real Estate,Residential REITs,UDR,44.98,281.18M,13.688B,-34.21%,23.62%,0.69,0.36
-455,Ulta Beauty,ULTA,Consumer Discretionary,Specialty Stores,ULTA,356.86,58.8M,21.048B,,40.97%,1.35,
+455,Ulta Beauty,ULTA,Consumer Discretionary,Specialty Stores,ULTA,356.86,58.8M,21.048B,,40.97%,1.35,12.8
 456,U.S. Bancorp,USB,Financials,Diversified Banks,USB,51.91,1.6B,83.692B,8.16%,2.76%,1.23,4.29
 457,Under Armour Class A,UAA,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",UAA,22.59,187.9M,9.584B,36.82%,26.52%,0.71,0.34
 458,Under Armour Class C,UA,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",UA,20.17,226.52M,9.627B,35.90%,30.94%,0.93,0.35
@@ -479,7 +479,7 @@
 477,Vornado Realty Trust,VNO,Real Estate,Office REITs,VNO,69.47,190.74M,14.218B,17.33%,1.88%,1.13,1.51
 478,Vulcan Materials,VMC,Materials,Construction Materials,VMC,121.88,132.07M,16.234B,18.10%,9.01%,0.91,4.78
 479,Wabtec Corporation,WAB,Industrials,Construction Machinery & Heavy Trucks,WAB,71.65,162.47M,11.897B,14.00%,-19.54%,1.4,4.15
-480,Walmart,WMT,Consumer Staples,Hypermarkets & Super Centers,WMT,100.45,2.87B,291.359B,,17.02%,0.66,
+480,Walmart,WMT,Consumer Staples,Hypermarkets & Super Centers,WMT,100.45,2.87B,291.359B,,17.02%,0.66,4.75
 481,Walgreens Boots Alliance,WBA,Consumer Staples,Drug Retail,WBA,52.72,914.3M,48.321B,5.12%,-20.72%,0.78,6.03
 482,The Walt Disney Company,DIS,Communication Services,Movies & Entertainment,DIS,138.7,1.8B,251.523B,4.27%,36.79%,0.51,6.66
 483,Waste Management Inc.,WM,Industrials,Environmental & Facilities Services,WM,105.77,424.68M,44.94B,10.50%,29.81%,0.67,4.36
@@ -498,7 +498,7 @@
 496,Wynn Resorts Ltd,WYNN,Consumer Discretionary,Casinos & Gaming,WYNN,148,107.64M,16.071B,14.00%,-21.05%,1.31,6.39
 497,Xcel Energy Inc,XEL,Utilities,Multi-Utilities,XEL,56.2,514.67M,28.78B,6.24%,19.53%,0.25,2.61
 498,Xerox,XRX,Information Technology,"Technology Hardware, Storage & Peripherals",XRX,32.18,226.91M,7.331B,8.80%,2.42%,2.2,3.78
-499,Xilinx,XLNX,Information Technology,Semiconductors,XLNX,115.52,253.16M,30.109B,,80.35%,1.41,
+499,Xilinx,XLNX,Information Technology,Semiconductors,XLNX,115.52,253.16M,30.109B,,80.35%,1.41,3.83
 500,Xylem Inc.,XYL,Industrials,Industrial Machinery,XYL,82.28,179.85M,14.948B,16.00%,12.73%,1.13,3.3
 501,Yum! Brands Inc,YUM,Consumer Discretionary,Restaurants,YUM,103.88,305.9M,31.841B,15.80%,18.77%,0.4,3.83
 502,Zimmer Biomet Holdings,ZBH,Health Care,Health Care Equipment,ZBH,125,204.58M,25.339B,4.63%,8.29%,1.41,7.8
@@ -527,7 +527,7 @@
 525,Aegion Corp,AEGN,Industrials,Construction and Engineering,AEGN,19.46,31.75M,612.852M,15.00%,-14.46%,1.77,1.19
 526,Advanced Energy,AEIS,Information Technology,Semiconductor Equipment,AEIS,58.03,38.24M,2.208B,10.00%,-1.91%,1.64,2.72
 527,American Equity Investment Life,AEL,Financials,Life and Health Insurance,AEL,28.89,90.5M,2.654B,10.00%,-4.54%,1.95,3.8
-528,American Eagle Outfitters,AEO,Consumer Discretionary,Apparel Retail,AEO,22.98,172.58M,4.014B,,11.65%,0.78,
+528,American Eagle Outfitters,AEO,Consumer Discretionary,Apparel Retail,AEO,22.98,172.58M,4.014B,,11.65%,0.78,1.6
 529,American Financial Group,AFG,Financials,Multi-line Insurance,AFG,101.4,89.64M,9.128B,6.10%,-10.63%,1.05,8.76
 530,AGCO,AGCO,Industrials,Construction & Farm Equipment & Heavy Trucks,AGCO,69.67,76.71M,5.437B,16.31%,11.07%,1.05,4.64
 531,Agilysys Inc,AGYS,Information Technology,Application Software,AGYS,18.83,23.05M,436.15M,15.00%,60.27%,1.34,-0.33
@@ -555,12 +555,12 @@
 553,Amer Woodmark Corporation,AMWD,Industrials,Building Products,AMWD,89.74,16.87M,1.515B,8.00%,9.20%,2.71,6.93
 554,AutoNation,AN,Consumer Discretionary,Automotive Retail,AN,39.64,90.06M,3.81B,8.00%,-14.48%,1.06,4.12
 555,Andersons Inc,ANDE,Consumer Staples,Food Distributors,ANDE,32.14,33.14M,1.083B,8.00%,-1.29%,1.09,2.38
-556,Abercrombie & Fitch Company,ANF,Consumer Discretionary,Apparel Retail,ANF,28.14,66.61M,1.93B,,10.30%,0.72,
+556,Abercrombie & Fitch Company,ANF,Consumer Discretionary,Apparel Retail,ANF,28.14,66.61M,1.93B,,10.30%,0.72,1.45
 557,Angiodynamics Inc,ANGO,Health Care,Healthcare Equipment,ANGO,20.39,37.22M,774.091M,21.00%,5.06%,0.71,0.84
 558,Anika Therapeutics,ANIK,Health Care,Healthcare Supplies,ANIK,32.85,14.21M,470.976M,10.00%,-25.86%,1.55,1.2
 559,ANI Pharma Inc,ANIP,Health Care,Pharmaceuticals,ANIP,69.79,11.88M,840.599M,2.70%,17.37%,1.95,5.78
 560,American Pub. Edu.,APEI,Consumer Discretionary,Education Services,APEI,32.55,16.59M,564.594M,-1.50%,-18.78%,0.15,1.63
-561,Apogee Entrpr Inc,APOG,Industrials,Building Products,APOG,39.8,27.18M,1.083B,,-3.16%,1.66,
+561,Apogee Entrpr Inc,APOG,Industrials,Building Products,APOG,39.8,27.18M,1.083B,,-3.16%,1.66,3.06
 562,Apergy Corp.,APY,Energy,Oil & Gas Equipment & Services,APY,40.32,77.36M,3.093B,28.50%,6.61%,,1.48
 563,Arcbest Corp,ARCB,Industrials,Trucking,ARCB,31.31,25.54M,806.244M,3.76%,-2.43%,2.18,3.66
 564,Apollo Commercial Real Estate,ARI,Real Estate,Mortgage REITs,ARI,18.73,134.29M,2.533B,7.46%,3.44%,0.56,1.88
@@ -596,7 +596,7 @@
 594,Natus Medical Incorporated,BABY,Health Care,Healthcare Equipment,BABY,24.73,33.66M,877.592M,22.00%,-23.78%,0.18,1.28
 595,"Banc Of California, Inc.",BANC,Financials,Regional Banks,BANC,14.23,50.18M,733.013M,10.00%,-25.89%,2.15,0.71
 596,Banner Corporation,BANR,Financials,Regional Banks,BANR,51.71,35.11M,1.85B,7.00%,-9.79%,0.82,4.28
-597,Bed Bath & Beyond,BBBY,Consumer Discretionary,Homefurnishing Retail,BBBY,16.82,132.23M,2.222B,,-3.67%,1.6,
+597,Bed Bath & Beyond,BBBY,Consumer Discretionary,Homefurnishing Retail,BBBY,16.82,132.23M,2.222B,,-3.67%,1.6,1.97
 598,Brunswick Corporation,BC,Consumer Discretionary,Leisure Products,BC,48.14,87.04M,4.391B,15.00%,-19.00%,1.79,4.97
 599,Boise Cascade Company,BCC,Materials,Forest Products,BCC,26.8,38.97M,1.075B,7.90%,-35.87%,2.11,2.09
 600,"Bonanza Creek Energy, Inc.",BCEI,Energy,Oil and Gas Exploration and Production,BCEI,23.17,20.56M,493.612M,15.00%,-24.33%,0.68,5.34
@@ -614,10 +614,10 @@
 612,"Benchmark Electronics, Inc.",BHE,Information Technology,Electronic Manufacturing Services,BHE,26.93,40.29M,1.103B,12.52%,2.81%,1.07,1.74
 613,"Berkshire Hills Bancorp, Inc.",BHLB,Financials,Regional Banks,BHLB,29.43,45.52M,1.361B,10.00%,-22.45%,1.41,2.6
 614,Sotheby's,BID,Consumer Discretionary,Diversified Consumer Services,BID,42.68,46.59M,2.021B,12.00%,-19.30%,0.93,2.65
-615,Big Lots,BIG,Consumer Discretionary,General Merchandise Stores,BIG,38.14,39.9M,1.519B,,-8.90%,2.18,
+615,Big Lots,BIG,Consumer Discretionary,General Merchandise Stores,BIG,38.14,39.9M,1.519B,,-8.90%,2.18,3.66
 616,Bio-Rad Laboratories,BIO,Health Care,Life Sciences Tools & Services,BIO,298.75,24.71M,9.058B,20.98%,17.81%,1.55,7.07
 617,"BJ's Restaurants, Inc.",BJRI,Consumer Discretionary,Restaurants,BJRI,50.12,21.08M,1.075B,11.70%,-13.79%,0.45,2.21
-618,"The Buckle, Inc.",BKE,Consumer Discretionary,Apparel Retail,BKE,17.93,48.74M,867.035M,,-22.04%,0.5,
+618,"The Buckle, Inc.",BKE,Consumer Discretionary,Apparel Retail,BKE,17.93,48.74M,867.035M,,-22.04%,0.5,1.85
 619,Black Hills Corporation,BKH,Utilities,Multi-Utilities,BKH,72.38,60.17M,4.342B,3.63%,27.15%,0.17,3.43
 620,"Barnes & Noble, Inc.",BKS,Consumer Discretionary,Specialty Stores,BKS,4.91,73.03M,366.588M,10.00%,-11.17%,-0.53,0.06
 621,TopBuild Corp.,BLD,Consumer Discretionary,Homebuilding,BLD,69.73,34.66M,2.415B,,-12.67%,1.65,4.61
@@ -638,7 +638,7 @@
 636,Cable One Inc,CABO,Consumer Discretionary,Cable & Satellite,CABO,1021.55,5.7M,5.89B,14.10%,60.78%,0.59,34.38
 637,CACI International Inc,CACI,Information Technology,IT Consulting and Other Services,CACI,188,24.86M,4.712B,4.80%,24.30%,1.31,10.34
 638,Cheesecake Factory Inc,CAKE,Consumer Discretionary,Restaurants,CAKE,49.41,43.65M,2.187B,8.60%,-5.18%,0.82,2.62
-639,"Caleres, Inc.",CAL,Consumer Discretionary,Apparel Retail,CAL,26.88,42.25M,1.14B,,-17.60%,0.78,
+639,"Caleres, Inc.",CAL,Consumer Discretionary,Apparel Retail,CAL,26.88,42.25M,1.14B,,-17.60%,0.78,2.48
 640,"Cal-Maine Foods, Inc.",CALM,Consumer Staples,Packaged Foods and Meats,CALM,41.06,43.89M,2.016B,-10.00%,-15.81%,0.29,1.44
 641,CalAmp Corp.,CAMP,Information Technology,Communications Equipment,CAMP,13.48,31.09M,420.375M,12.00%,-31.75%,1.98,1.1
 642,Avis Budget Group,CAR,Industrials,Trucking,CAR,35.83,75.91M,2.774B,18.20%,-27.52%,1.8,3.88
@@ -675,7 +675,7 @@
 673,Chemed Corp.,CHE,Health Care,Health Care Services,CHE,326.14,15.93M,5.24B,8.85%,5.81%,0.96,12.78
 674,Chemical Financial Corp,CHFC,Financials,Regional Banks,CHFC,43.04,71.54M,3.151B,9.00%,-21.50%,2.07,4.22
 675,Chesapeake Energy,CHK,Energy,Oil & Gas Exploration & Production,CHK,2.9,1.62B,4.805B,6.20%,-1.01%,2.39,0.61
-676,"Chico's FAS, Inc.",CHS,Consumer Discretionary,Apparel Retail,CHS,3.73,116.5M,426.379M,,-62.34%,0.68,
+676,"Chico's FAS, Inc.",CHS,Consumer Discretionary,Apparel Retail,CHS,3.73,116.5M,426.379M,,-62.34%,0.68,0.08
 677,Chesapeake Lodging Trust,CHSP,Real Estate,Hotel and Resort REITs,CHSP,28.55,59.31M,1.706B,8.00%,-3.66%,1.37,1.18
 678,"Chuy's Holdings, Inc.",CHUY,Consumer Discretionary,Restaurants,CHUY,21.16,16.89M,351.715M,15.00%,-26.22%,1.37,0.91
 679,Ciena Corp,CIEN,Information Technology,Communications Equipment,CIEN,39.15,155.95M,5.961B,13.20%,51.69%,0.39,1.83
@@ -698,7 +698,7 @@
 696,CONMED Corporation,CNMD,Health Care,Healthcare Equipment,CNMD,81.24,28.23M,2.328B,14.90%,25.05%,0.78,2.45
 697,CNO Financial Group,CNO,Financials,Life & Health Insurance,CNO,16.7,161.24M,2.704B,10.00%,-22.20%,1.85,2.02
 698,"Consolidated Communications Holdings, Inc.",CNSL,Telecommunication Services,Integrated Telecommunication Services,CNSL,5.89,72M,410.371M,2.00%,-48.23%,1.19,-0.5
-699,CNX Resources Corp,CNX,Energy,Oil & Gas Exploration & Production,CNX,10.27,195.68M,2.053B,35.70%,-30.28%,0.39,0.77
+699,CNX Resources Corp,CNX,Energy,Oil & Gas Exploration & Production,CNX,10.27,195.68M,2.053B,35.70%,,0.39,0.77
 700,"Coherent, Inc.",COHR,Information Technology,Electronic Equipment & Instruments,COHR,151.47,24.33M,3.751B,8.00%,-9.22%,2.93,7.49
 701,"Cohu, Inc.",COHU,Information Technology,Semiconductor Equipment,COHU,14.09,40.82M,600.825M,10.00%,-32.52%,1.73,0.64
 702,Coca-Cola Bottling Co. Consolidated,COKE,Consumer Staples,Soft Drinks,COKE,334,7.14M,2.368B,,97.46%,1.45,6.16
@@ -753,7 +753,7 @@
 751,Donaldson Co,DCI,Industrials,Industrial Machinery,DCI,52.49,127.65M,6.798B,8.00%,18.32%,1.71,2.33
 752,"Dime Community Bancshares, Inc.",DCOM,Financials,Thrifts and Mortgage Finance,DCOM,19.51,35.88M,716.205M,1.25%,-1.06%,1.03,1.29
 753,3D Systems Corporation,DDD,Information Technology,"Technology Hardware, Storage and Peripherals",DDD,10.83,116.68M,1.265B,10.00%,7.97%,2.43,0.17
-754,Dillard's Inc,DDS,Consumer Discretionary,Department Stores,DDS,67,22.34M,1.822B,,-8.42%,1.02,
+754,Dillard's Inc,DDS,Consumer Discretionary,Department Stores,DDS,67,22.34M,1.822B,,-8.42%,1.02,5.52
 755,"Easterly Government Properties, Inc.",DEA,Real Estate,Office REITs,DEA,17.82,60.9M,1.248B,,-13.78%,0.96,0.16
 756,Deckers Outdoor Corporation,DECK,Consumer Discretionary,Footwear,DECK,154.75,29.13M,4.52B,13.90%,65.77%,0.48,7.98
 757,"Douglas Emmett, Inc.",DEI,Real Estate,Office REITs,DEI,41.18,170.24M,8.104B,8.00%,10.30%,0.66,0.69
@@ -762,7 +762,7 @@
 760,Digi International Inc.,DGII,Information Technology,Communications Equipment,DGII,12.79,27.68M,354.517M,17.00%,11.48%,1.84,0.36
 761,"Dine Brands Global, Inc.",DIN,Consumer Discretionary,Restaurants,DIN,94.05,17.68M,1.656B,3.90%,17.76%,0.8,7.13
 762,Diodes Incorporated,DIOD,Information Technology,Semiconductors,DIOD,36.35,50.6M,1.832B,15.00%,28.02%,0.85,2.56
-763,Dick's Sporting Goods Inc,DKS,Consumer Discretionary,Specialty Stores,DKS,38.13,71.76M,3.689B,,15.56%,1,
+763,Dick's Sporting Goods Inc,DKS,Consumer Discretionary,Specialty Stores,DKS,38.13,71.76M,3.689B,,15.56%,1,3.26
 764,Delphi Technologies PLC,DLPH,Consumer Discretionary,Auto Parts & Equipment,DLPH,22.87,88.53M,2.013B,3.00%,-53.34%,,3.05
 765,Deluxe Corporation,DLX,Industrials,Commercial Printing,DLX,43.36,43.64M,1.934B,7.50%,-36.96%,1.73,5.47
 766,Dun & Bradstreet Corp,DNB,Industrials,Research & Consulting Services,DNB,,,,,,,
@@ -776,9 +776,9 @@
 774,DiamondRock Hospitality Company,DRH,Real Estate,Hotel and Resort REITs,DRH,10.74,201.86M,2.195B,-9.50%,-2.90%,1.47,0.44
 775,Dril-Quip,DRQ,Energy,Oil & Gas Equipment & Services,DRQ,43.28,35.76M,1.556B,-25.90%,5.21%,2.49,-0.01
 776,"DSP Group, Inc.",DSPG,Information Technology,Semiconductors,DSPG,14.32,22.63M,328.074M,,20.50%,0.89,
-777,DSW Inc.,DSW,Consumer Discretionary,Apparel Retail,DSW,22.24,,1.766B,,,,
+777,DSW Inc.,DSW,Consumer Discretionary,Apparel Retail,DSW,22.24,,1.766B,,,,1.86
 778,"DXP Enterprises, Inc.",DXPE,Industrials,Trading Companies and Distributors,DXPE,43.15,17.58M,767.617M,20.00%,18.93%,2.17,2.41
-779,Dycom Industries Inc,DY,Industrials,Construction & Engineering,DY,48.32,31.48M,1.535B,,-53.49%,1.36,
+779,Dycom Industries Inc,DY,Industrials,Construction & Engineering,DY,48.32,31.48M,1.535B,,-53.49%,1.36,2.5
 780,Brinker International Inc,EAT,Consumer Discretionary,Restaurants,EAT,43.19,37.5M,1.678B,5.97%,0.32%,0.43,3.85
 781,"Ebix, Inc.",EBIX,Information Technology,Application Software,EBIX,49.22,30.55M,1.521B,10.00%,-36.40%,2.09,4.43
 782,Emergent BioSolutions Inc.,EBS,Health Care,Biotechnology,EBS,54,51.38M,2.747B,10.30%,3.86%,1.51,3
@@ -788,7 +788,7 @@
 786,Education Realty Trust Inc.,EDR,Real Estate,Residential REITs,EDR,,,,,,,
 787,El Paso Electric Company,EE,Utilities,Electric Utilities,EE,60.15,40.86M,2.458B,3.80%,17.41%,0.51,2.59
 788,"Electronics for Imaging, Inc.",EFII,Information Technology,"Technology Hardware, Storage and Peripherals",EFII,37.38,42.49M,1.608B,7.00%,34.91%,1.1,1.75
-789,"8x8, Inc.",EGHT,Information Technology,Application Software,EGHT,23.5,95.65M,2.251B,-218.50%,-100.00%,0.94,-0.21
+789,"8x8, Inc.",EGHT,Information Technology,Application Software,EGHT,23.5,95.65M,2.251B,-218.50%,0.74%,0.94,-0.21
 790,"Engility Holdings, Inc.",EGL,Industrials,Aerospace and Defense,EGL,,,,,,,
 791,Energen,EGN,Energy,Oil & Gas Exploration & Production,EGN,,,,,,,
 792,NIC Inc.,EGOV,Information Technology,Data Processing and Outsourced Services,EGOV,16.9,67.53M,1.156B,10.00%,14.14%,1.37,0.72
@@ -814,7 +814,7 @@
 812,"Electro Scientific Industries, Inc.",ESIO,Information Technology,Electronic Equipment and Instruments,ESIO,,,,,,,
 813,Esterline Technologies,ESL,Industrials,Aerospace & Defense,ESL,122.49,,3.637B,2.11%,,,0
 814,Essendant Inc.,ESND,Industrials,Office Services and Supplies,ESND,,,,,,,
-815,EnscoRowan,ESV,Energy,Oil & Gas Drilling,ESV,15.56,109.35M,1.724B,-28.50%,178.58%,2.45,-4.95
+815,EnscoRowan,ESV,Energy,Oil & Gas Drilling,ESV,15.56,109.35M,1.724B,-28.50%,-30.35%,2.45,-4.95
 816,Ethan Allen Interiors Inc.,ETH,Consumer Discretionary,Home Furnishings,ETH,19.75,26.58M,535.843M,9.20%,-10.43%,0.99,1.45
 817,Eaton Vance Corp,EV,Financials,Asset Management & Custody Banks,EV,41.6,110.2M,4.634B,4.68%,-23.50%,1.58,3.15
 818,Evercore,EVR,Financials,Investment Banking & Brokerage,EVR,96.36,41M,4.208B,-4.50%,-4.34%,2.22,7.95
@@ -824,7 +824,7 @@
 822,"ExlService Holdings, Inc.",EXLS,Information Technology,Data Processing and Outsourced Services,EXLS,62.36,34.32M,2.153B,10.35%,7.71%,0.89,2.97
 823,Eagle Materials Inc,EXP,Materials,Construction Materials,EXP,89.1,45.9M,4.172B,8.00%,-9.94%,1.57,4.98
 824,"Exponent, Inc.",EXPO,Industrials,Research and Consulting Services,EXPO,56.98,51.9M,2.94B,15.00%,31.69%,0.09,1.42
-825,"Express, Inc.",EXPR,Consumer Discretionary,Apparel Retail,EXPR,3.56,66.51M,238.759M,,-54.59%,1.11,
+825,"Express, Inc.",EXPR,Consumer Discretionary,Apparel Retail,EXPR,3.56,66.51M,238.759M,,-54.59%,1.11,-0.2
 826,Exterran Corporation,EXTN,Energy,Oil and Gas Equipment and Services,EXTN,15.38,36.14M,541.769M,,-47.39%,1.4,0.39
 827,"Extreme Networks, Inc.",EXTR,Information Technology,Communications Equipment,EXTR,7.93,116.76M,932.912M,20.00%,-25.42%,1.55,0.48
 828,"EZCORP, Inc.",EZPW,Financials,Consumer Finance,EZPW,10.71,52.48M,610.452M,5.00%,-21.46%,1.13,0.97
@@ -843,7 +843,7 @@
 841,First Horizon National Corp,FHN,Financials,Regional Banks,FHN,14.9,315.36M,4.718B,5.60%,-18.58%,1.4,1.47
 842,Fair Isaac Corporation,FICO,Information Technology,Application Software,FICO,280.96,29.07M,8.247B,17.70%,61.97%,1.61,7.04
 843,Federated Investors,FII,Financials,Asset Management & Custody Banks,FII,30.7,100.79M,3.134B,2.64%,26.71%,0.41,2.46
-844,Five Below,FIVE,Consumer Discretionary,Specialty Stores,FIVE,145.22,55.8M,8.134B,,106.06%,0.93,
+844,Five Below,FIVE,Consumer Discretionary,Specialty Stores,FIVE,145.22,55.8M,8.134B,,106.06%,0.93,3.06
 845,"Comfort Systems USA, Inc.",FIX,Industrials,Construction and Engineering,FIX,55.57,36.9M,2B,10.00%,34.53%,1.42,3.27
 846,Flowers Foods Inc.,FLO,Consumer Staples,Packaged Foods & Meats,FLO,21.34,211.45M,4.561B,5.22%,-5.88%,0.23,0.97
 847,"SPX FLOW, Inc.",FLOW,Industrials,Industrial Machinery,FLOW,35.18,42.53M,1.536B,8.10%,-21.73%,2.01,2.55
@@ -874,20 +874,20 @@
 872,"Glacier Bancorp, Inc.",GBCI,Financials,Regional Banks,GBCI,41.66,84.59M,3.58B,10.00%,12.56%,1.21,2.41
 873,"The Greenbrier Companies, Inc.",GBX,Industrials,Construction Machinery and Heavy Trucks,GBX,34.61,32.41M,1.145B,7.00%,-21.25%,1.64,3.62
 874,"Gannett Co., Inc.",GCI,Consumer Discretionary,Publishing,GCI,9.34,114.47M,1.085B,,-4.24%,2.01,0.7
-875,Genesco Inc.,GCO,Consumer Discretionary,Apparel Retail,GCO,44.12,18.35M,824.962M,,3.79%,0.69,
+875,Genesco Inc.,GCO,Consumer Discretionary,Apparel Retail,GCO,44.12,18.35M,824.962M,,3.79%,0.69,3.59
 876,Green Dot Corporation,GDOT,Financials,Consumer Finance,GDOT,62.93,53.15M,3.367B,18.03%,3.60%,0.71,3.64
 877,"Greif, Inc.",GEF,Materials,Metal & Glass Containers,GEF,38.48,26.23M,2.058B,15.00%,-34.45%,1.43,3.68
 878,GEO Group Inc.,GEO,Real Estate,Specialized REITs,GEO,19.23,121.03M,2.352B,15.00%,-14.62%,1.6,1.33
 879,Geospace Technologies Corporation,GEOS,Energy,Oil and Gas Equipment and Services,GEOS,14.05,13.63M,192.768M,37.00%,32.83%,2.6,0
-880,"Guess?, Inc.",GES,Consumer Discretionary,Apparel Retail,GES,19.36,81.73M,1.614B,,-16.62%,0.58,
+880,"Guess?, Inc.",GES,Consumer Discretionary,Apparel Retail,GES,19.36,81.73M,1.614B,,-16.62%,0.58,1.2
 881,Griffon Corporation,GFF,Industrials,Building Products,GFF,19.27,43.56M,848.901M,20.41%,-2.81%,2.79,0.96
 882,Graco Inc.,GGG,Industrials,Industrial Machinery,GGG,50.81,165.51M,8.52B,7.50%,15.64%,0.87,2.02
 883,Graham Holdings Company,GHC,Consumer Discretionary,Education Services,GHC,723.96,4.35M,3.914B,18.10%,20.15%,0.34,34.42
 884,"Greenhill & Co., Inc.",GHL,Financials,Investment Banking and Brokerage,GHL,23.43,20.69M,493.045M,118.30%,15.27%,0.76,1.68
 885,"Gulf Island Fabrication, Inc.",GIFI,Energy,Oil and Gas Equipment and Services,GIFI,8.65,15.24M,130.119M,31.60%,-15.40%,1.96,-0.1
-886,"G-III Apparel Group, Ltd.",GIII,Consumer Discretionary,"Apparel, Accessories and Luxury Goods",GIII,42.31,48.71M,2.095B,,16.09%,2.07,
+886,"G-III Apparel Group, Ltd.",GIII,Consumer Discretionary,"Apparel, Accessories and Luxury Goods",GIII,42.31,48.71M,2.095B,,16.09%,2.07,3.3
 887,P. H. Glatfelter Company,GLT,Materials,Paper Products,GLT,14.69,44.02M,665.189M,0.20%,-29.49%,1.75,0.7
-888,GameStop Corp.,GME,Consumer Discretionary,Computer & Electronics Retail,GME,8.93,102.27M,909.154M,,-34.43%,0.46,
+888,GameStop Corp.,GME,Consumer Discretionary,Computer & Electronics Retail,GME,8.93,102.27M,909.154M,,-34.43%,0.46,1.55
 889,Globus Medical Inc.,GMED,Health Care,Health Care Equipment,GMED,45.69,76.14M,4.494B,10.27%,-11.04%,0.88,1.71
 890,"Green Bancorp, Inc.",GNBC,Financials,Regional Banks,GNBC,,,,,,,
 891,"Global Net Lease, Inc.",GNL,Real Estate,Diversified REITs,GNL,18.94,83.79M,1.599B,,1.45%,0.89,0.22
@@ -915,7 +915,7 @@
 913,"HFF, Inc.",HF,Real Estate,Real Estate Services,HF,47.74,39.82M,1.898B,15.00%,35.00%,1.99,2.84
 914,Heritage Financial Corporation,HFWA,Health Care,Regional Banks,HFWA,29.85,36.81M,1.119B,7.00%,3.37%,1.1,2.1
 915,"Hillenbrand, Inc.",HI,Industrials,Industrial Machinery,HI,42.29,62.53M,2.674B,12.50%,-8.67%,1.23,2.54
-916,"Hibbett Sports, Inc.",HIBB,Consumer Discretionary,Specialty Stores,HIBB,20.44,18.38M,376.705M,,-24.56%,0.89,
+916,"Hibbett Sports, Inc.",HIBB,Consumer Discretionary,Specialty Stores,HIBB,20.44,18.38M,376.705M,,-24.56%,0.89,1.89
 917,Highwoods Properties,HIW,Real Estate,Office REITs,HIW,44.33,103.68M,4.746B,8.00%,0.34%,1.09,1.26
 918,Harmonic Inc.,HLIT,Information Technology,Communications Equipment,HLIT,5.62,88.68M,500.148M,35.00%,54.52%,0.8,0.1
 919,"Helix Energy Solutions Group, Inc.",HLX,Energy,Oil and Gas Equipment and Services,HLX,7.66,148.78M,1.174B,100.70%,-0.78%,2.43,0.28
@@ -927,7 +927,7 @@
 925,"Hope Bancorp, Inc.",HOPE,Financials,Regional Banks,HOPE,13.58,126.64M,1.748B,8.00%,-21.80%,1.87,1.38
 926,HighPoint Resources Corporation,HPR,Energy,Oil and Gas Exploration and Production,HPR,2.84,210.17M,571.662M,31.00%,-57.89%,2.01,0.06
 927,Hospitality Properties Trust,HPT,Real Estate,Specialized REITs,HPT,25.68,164.44M,4.289B,5.00%,3.14%,1.36,1.88
-928,"HealthEquity, Inc.",HQY,Health Care,Managed Healthcare,HQY,69.96,62.47M,4.535B,,5.92%,1.61,
+928,"HealthEquity, Inc.",HQY,Health Care,Managed Healthcare,HQY,69.96,62.47M,4.535B,,5.92%,1.61,1.28
 929,Healthcare Realty Trust,HR,Real Estate,Health Care REITs,HR,30.79,128.71M,3.967B,10.00%,10.17%,0.8,0.26
 930,Hill-Rom Holdings Inc.,HRC,Health Care,Life Sciences Tools & Services,HRC,98.88,66.66M,6.804B,11.27%,13.17%,1.19,5.04
 931,Harsco Corporation,HSC,Industrials,Industrial Machinery,HSC,21.74,80.08M,1.767B,20.00%,6.11%,1.7,1.39
@@ -944,7 +944,7 @@
 942,Halyard Health,HYH,Health Care,Health Care Supplies,HYH,,,,,,,
 943,"MarineMax, Inc.",HZO,Consumer Discretionary,Specialty Stores,HZO,15.58,22.84M,377.496M,30.00%,-27.04%,1.14,1.94
 944,Integra Lifesciences Holdings,IART,Health Care,Health Care Equipment,IART,51.66,85.33M,4.483B,13.20%,-16.63%,1.2,2.69
-945,Interactive Brokers,IBKR,Financials,Investment Banking & Brokerage,IBKR,53.5,,22.398B,,,,
+945,Interactive Brokers,IBKR,Financials,Investment Banking & Brokerage,IBKR,53.5,,22.418B,,,,
 946,Intl Bancshares Corp,IBOC,Financials,Regional Banks,IBOC,40.84,65.64M,2.715B,,2.51%,1.28,
 947,"Installed Building Products, Inc.",IBP,Consumer Discretionary,Homebuilding,IBP,47.81,29.97M,1.427B,12.13%,-17.24%,2.1,3.04
 948,ICU Medical,ICUI,Health Care,Health Care Supplies,ICUI,226.27,20.6M,4.646B,16.00%,-10.34%,0.7,9.41
@@ -983,13 +983,13 @@
 981,"John B. Sanfilippo & Son, Inc.",JBSS,Consumer Staples,Packaged Foods and Meats,JBSS,70.6,8.79M,808.577M,,24.06%,1.54,2.89
 982,John Bean Technologies Corporation,JBT,Industrials,Industrial Machinery,JBT,99.15,31.52M,3.171B,6.40%,-8.14%,1.41,4.33
 983,j2 Global Inc.,JCOM,Information Technology,Internet Software & Services,JCOM,87.69,48.75M,4.278B,8.00%,10.33%,0.92,6.8
-984,"J. C. Penney Company, Inc.",JCP,Consumer Discretionary,Department Stores,JCP,1.3,316.37M,430.26M,,-55.33%,2.08,
+984,"J. C. Penney Company, Inc.",JCP,Consumer Discretionary,Department Stores,JCP,1.3,316.37M,430.26M,,-55.33%,2.08,-0.77
 985,Janus Henderson Group plc,JHG,Financials,Asset Management and Custody Banks,JHG,25.3,190.65M,4.862B,-1.62%,-19.75%,,2.59
 986,J&J Snack Foods Corp.,JJSF,Consumer Staples,Packaged Foods and Meats,JJSF,154.29,18.78M,2.93B,6.00%,12.19%,0.27,4.88
 987,Jack Henry & Associates Inc,JKHY,Information Technology,Data Processing & Outsourced Services,JKHY,147.33,77.18M,11.433B,11.00%,23.28%,1.1,3.57
 988,Jones Lang Lasalle Inc,JLL,Real Estate,Real Estate Services,JLL,154,45.74M,7.095B,9.35%,-9.31%,1.37,11.5
 989,"James River Group Holdings, Ltd.",JRVR,Financials,Property and Casualty Insurance,JRVR,41.57,30.14M,1.263B,,14.04%,0.63,2.6
-990,John Wiley & Sons,JW.A,Consumer Discretionary,Publishing,JW.A,,,,,,,
+990,John Wiley & Sons,JW.A,Consumer Discretionary,Publishing,JW-A,45.92,47.93M,2.685B,15.00%,-30.49%,1.08,3.01
 991,Kaiser Aluminum Corporation,KALU,Materials,Aluminum,KALU,97.08,16.01M,1.569B,4.90%,-1.59%,1.28,6.98
 992,Kaman Corporation,KAMN,Industrials,Trading Companies and Distributors,KAMN,61.42,27.86M,1.723B,10.00%,0.97%,0.62,2.86
 993,KB Home,KBH,Consumer Discretionary,Homebuilding,KBH,25.56,87.13M,2.227B,19.61%,-3.73%,1.42,2.64
@@ -999,7 +999,7 @@
 997,Kirby Corporation,KEX,Industrials,Marine,KEX,80.65,59.88M,4.852B,24.10%,-5.65%,1.11,3.52
 998,Keysight Technologies Inc,KEYS,Information Technology,Electronic Equipment & Instruments,KEYS,87.23,187.99M,16.144B,19.83%,69.78%,1.14,3.96
 999,Korn/Ferry International,KFY,Industrials,Human Resource and Employment Services,KFY,45.81,56.43M,2.681B,15.00%,-14.29%,1.77,3.34
-1000,"Kirkland's, Inc.",KIRK,Consumer Discretionary,Home Furnishing Retail,KIRK,5.98,14.37M,85.051M,,-43.25%,0.43,
+1000,"Kirkland's, Inc.",KIRK,Consumer Discretionary,Home Furnishing Retail,KIRK,5.98,14.37M,85.051M,,-43.25%,0.43,0.18
 1001,"Kulicke and Soffa Industries, Inc.",KLIC,Information Technology,Semiconductor Equipment,KLIC,23.53,66.14M,1.562B,16.00%,3.41%,1.28,1.09
 1002,KLX Inc,KLXI,Industrials,Aerospace & Defense,KLXI,,,,,,,
 1003,Kemper Corporation,KMPR,Financials,Multi-line Insurance,KMPR,85.79,64.93M,5.616B,10.00%,26.98%,1.34,5.4
@@ -1079,7 +1079,7 @@
 1077,"MGP Ingredients, Inc.",MGPI,Consumer Staples,Distillers and Vintners,MGPI,87.2,17.01M,1.49B,15.00%,-9.27%,2.04,2.61
 1078,"Maiden Holdings, Ltd.",MHLD,Financials,Reinsurance,MHLD,0.6051,82.96M,49.775M,12.00%,-92.02%,0.09,0.22
 1079,"M/I Homes, Inc.",MHO,Consumer Discretionary,Homebuilding,MHO,27.97,27.54M,765.581M,12.50%,-8.79%,1.13,3.61
-1080,The Michaels Companies Inc,MIK,Consumer Discretionary,Specialty Stores,MIK,12.14,157.77M,1.948B,,-34.53%,1.19,
+1080,The Michaels Companies Inc,MIK,Consumer Discretionary,Specialty Stores,MIK,12.14,157.77M,1.948B,,-34.53%,1.19,2.44
 1081,"Mobile Mini, Inc.",MINI,Industrials,Diversified Support Services,MINI,36.21,44.87M,1.625B,16.00%,-13.38%,1.47,1.92
 1082,MKS Instruments,MKSI,Information Technology,Semiconductor Equipment,MKSI,99.77,54.23M,5.509B,5.74%,-1.61%,1.63,6.28
 1083,MarketAxess Holdings,MKTX,Financials,Specialized Finance,MKTX,263.69,37.64M,10.151B,13.10%,33.65%,0.06,5.07
@@ -1090,9 +1090,9 @@
 1088,Mallinckrodt,MNK,Health Care,Pharmaceuticals,MNK,18.39,83.54M,1.53B,9.17%,41.46%,2.82,8.21
 1089,"Monro, Inc.",MNRO,Customer Discretionary,Automotive Retail,MNRO,80.29,33.1M,2.7B,18.00%,43.29%,0.88,2.39
 1090,"Momenta Pharmaceuticals, Inc.",MNTA,Health Care,Biotechnology,MNTA,14.57,98.28M,1.464B,-146.20%,-29.95%,2.45,-1.66
-1091,Moog Inc.,MOG.A,Industrials,Aerospace and Defense,MOG.A,,,,,,,
+1091,Moog Inc.,MOG.A,Industrials,Aerospace and Defense,MOG-A,96.03,32.45M,3.182B,9.63%,17.02%,1.52,5.35
 1092,Molina Healthcare Inc,MOH,Health Care,Managed Health Care,MOH,124.18,62.63M,8.047B,13.00%,49.27%,2.05,10
-1093,"Movado Group, Inc.",MOV,Consumer Discretionary,"Apparel, Accessories and Luxury Goods",MOV,33.82,22.98M,795.483M,,-14.17%,0.43,
+1093,"Movado Group, Inc.",MOV,Consumer Discretionary,"Apparel, Accessories and Luxury Goods",MOV,33.82,22.98M,795.483M,,-14.17%,0.43,2.8
 1094,"Motorcar Parts of America, Inc.",MPAA,Consumer Discretionary,Auto Parts and Equipment,MPAA,20.84,18.81M,391.794M,25.00%,8.56%,1.79,1.65
 1095,Medical Properties Trust Inc,MPW,Real Estate,Health Care REITs,MPW,17.6,381.01M,6.664B,6.21%,36.62%,0.57,0.98
 1096,Monolithic Power Systems Inc,MPWR,Information Technology,Semiconductors,MPWR,154.46,42.92M,6.651B,25.00%,33.00%,1.19,4.05
@@ -1164,12 +1164,12 @@
 1162,ONE Gas,OGS,Utilities,Gas Utilities,OGS,88.21,52.69M,4.634B,5.00%,25.76%,0.56,3.45
 1163,Omega Healthcare Investors,OHI,Real Estate,Specialized REITs,OHI,36,207M,7.807B,15.80%,38.18%,0.56,1.62
 1164,Oceaneering Intl Inc,OII,Energy,Oil & Gas Equipment & Services,OII,16.79,98.93M,1.706B,13.00%,-20.06%,2.59,-1.03
-1165,Ollie's Bargain Outlet,OLLI,Consumer Discretionary,General Merchandise Stores,OLLI,94.77,63.19M,6.07B,,53.01%,1.5,
+1165,Ollie's Bargain Outlet,OLLI,Consumer Discretionary,General Merchandise Stores,OLLI,94.77,63.19M,6.07B,,53.01%,1.5,2.15
 1166,Olin Corp.,OLN,Materials,Diversified Chemicals,OLN,22.56,164.89M,3.753B,30.45%,-25.27%,1.63,1.88
 1167,Owens-Illinois,OI,Materials,Metal & Glass Containers,OI,19.06,155.22M,3.013B,9.64%,-6.54%,1.14,2.96
 1168,"Oceaneering International, Inc.",OII,Energy,Oil and Gas Equipment and Services,OII,16.79,98.93M,1.706B,13.00%,-20.06%,2.59,-1.03
 1169,"Oil States International, Inc.",OIS,Energy,Oil and Gas Equipment and Services,OIS,19.87,60.5M,1.2B,-6.99%,-45.09%,2.94,-0.46
-1170,"Ollie's Bargain Outlet Holdings, Inc.",OLLI,Consumer Discretionary,General Merchandise Stores,OLLI,94.77,63.19M,6.07B,,53.01%,1.5,
+1170,"Ollie's Bargain Outlet Holdings, Inc.",OLLI,Consumer Discretionary,General Merchandise Stores,OLLI,94.77,63.19M,6.07B,,53.01%,1.5,2.15
 1171,Olin Corporation,OLN,Materials,Commodity Chemicals,OLN,22.56,164.89M,3.753B,30.45%,-25.27%,1.63,1.88
 1172,"Omnicell, Inc.",OMCL,Health Care,Health Care Technology,OMCL,80.05,41.2M,3.214B,8.50%,79.51%,1.74,2.51
 1173,"Owens & Minor, Inc.",OMI,Health Care,Healthcare Distributors,OMI,3.42,63.02M,220.576M,-7.47%,-78.89%,2.51,0.66
@@ -1179,10 +1179,10 @@
 1177,Oritani Financial Corp.,ORIT,Financials,Thrifts and Mortgage Finance,ORIT,16.94,43.07M,740.404M,12.00%,10.72%,0.96,1.16
 1178,"Orion Group Holdings, Inc.",ORN,Industrials,Construction and Engineering,ORN,2.55,28.75M,73.604M,-10.00%,-58.09%,1.19,-0.07
 1179,"OSI Systems, Inc.",OSIS,Information Technology,Electronic Equipment and Instruments,OSIS,85.91,18.07M,1.603B,17.50%,33.99%,0.78,4.03
-1180,Oshkosh Corporation,OSK,Industrials,Construction & Farm Machinery & Heavy Trucks,OSK,80.23,70.05M,5.606B,4.98%,8.80%,2.06,7.47
+1180,Oshkosh Corporation,OSK,Industrials,Construction & Farm Machinery & Heavy Trucks,OSK,78.74,70.05M,5.606B,4.98%,8.80%,2.06,7.47
 1181,OneSpan Inc.,OSPN,Information Technology,Systems Software,OSPN,19.12,39.97M,769.828M,2.00%,∞%,2.23,0.46
 1182,"OraSure Technologies, Inc.",OSUR,Health Care,Healthcare Supplies,OSUR,9.51,62.05M,554.734M,20.00%,-46.25%,1.4,0.22
-1183,"Oxford Industries, Inc.",OXM,Consumer Discretionary,"Apparel, Accessories and Luxury Goods",OXM,82.82,16.96M,1.429B,,7.50%,0.97,
+1183,"Oxford Industries, Inc.",OXM,Consumer Discretionary,"Apparel, Accessories and Luxury Goods",OXM,82.82,16.96M,1.429B,,7.50%,0.97,4.57
 1184,Bank OZK,OZK,Financials,Regional Banks,OZK,31.81,128.6M,4.163B,12.00%,-31.86%,2.18,3.48
 1185,PacWest Bancorp,PACW,Financials,Regional Banks,PACW,38.96,118.91M,4.67B,10.00%,-23.95%,1.64,3.79
 1186,Phibro Animal Health Corporation,PAHC,Health Care,Pharmaceuticals,PAHC,33.49,20.28M,1.355B,5.30%,-20.97%,0.01,1.68
@@ -1211,8 +1211,8 @@
 1209,Piper Jaffray Companies,PJC,Financials,Investment Banking and Brokerage,PJC,79.86,12.66M,1.014B,10.00%,11.52%,1.23,6.41
 1210,Park Electrochemical Corp.,PKE,Information Technology,Electronic Manufacturing Services,PKE,16.4,20.28M,334.813M,15.00%,-3.70%,1.31,0.46
 1211,"Photronics, Inc.",PLAB,Information Technology,Semiconductor Equipment,PLAB,9.31,67.05M,632.296M,10.00%,22.48%,0.77,0.4
-1212,"Dave & Buster's Entertainment, Inc.",PLAY,Consumer Discretionary,Restaurants,PLAY,58.09,36.6M,2.123B,,35.51%,1.28,
-1213,"The Children's Place, Inc.",PLCE,Consumer Discretionary,Apparel Retail,PLCE,109.41,15.78M,1.742B,,-14.02%,1.37,
+1212,"Dave & Buster's Entertainment, Inc.",PLAY,Consumer Discretionary,Restaurants,PLAY,58.09,36.6M,2.123B,,35.51%,1.28,3.08
+1213,"The Children's Place, Inc.",PLCE,Consumer Discretionary,Apparel Retail,PLCE,109.41,15.78M,1.742B,,-14.02%,1.37,5.6
 1214,Plantronics Inc,PLT,Information Technology,Communications Equipment,PLT,51.08,39.47M,2.019B,15.00%,-21.52%,1.71,4.76
 1215,ePlus inc.,PLUS,Information Technology,Technology Distributors,PLUS,92.02,13.61M,1.268B,5.00%,15.05%,1.35,5.28
 1216,Plexus Corp.,PLXS,Information Technology,Electronic Manufacturing Services,PLXS,58.99,30.24M,1.791B,8.13%,8.08%,1.11,3.47
@@ -1245,7 +1245,7 @@
 1243,"Qualys, Inc.",QLYS,Information Technology,Systems Software,QLYS,87.16,39.38M,3.47B,8.00%,13.40%,0.83,1.87
 1244,"QuinStreet, Inc.",QNST,Information Technology,Internet Software and Services,QNST,13.89,49.81M,714.237M,25.00%,22.24%,-0.11,0.62
 1245,Ryder System,R,Industrials,Trucking,R,63.91,53.27M,3.457B,14.61%,-5.22%,1.98,6.1
-1246,"Raven Industries, Inc.",RAVN,Industrials,Industrial Conglomerates,RAVN,38.05,35.94M,1.393B,,3.99%,1.64,
+1246,"Raven Industries, Inc.",RAVN,Industrials,Industrial Conglomerates,RAVN,38.05,35.94M,1.393B,,3.99%,1.64,1.5
 1247,Regal Beloit Corp,RBC,Industrials,Electrical Components & Equipment,RBC,82.22,42.81M,3.564B,12.70%,15.37%,1.37,6.42
 1248,"Rent-A-Center, Inc.",RCII,Consumer Discretionary,Computer and Electronics Retail,RCII,24.38,53.98M,1.317B,5.00%,145.99%,0.17,1.87
 1249,"Resources Connection, Inc.",RECN,Industrials,Research and Consulting Services,RECN,15.97,32.02M,515.53M,8.00%,2.04%,1.26,0.96
@@ -1258,7 +1258,7 @@
 1256,REGENXBIO Inc.,RGNX,Health Care,Biotechnology,RGNX,52.71,36.61M,1.927B,2.00%,41.23%,1.04,-3.34
 1257,"Sturm, Ruger & Company, Inc.",RGR,Consumer Discretionary,Leisure Products,RGR,56.56,17.46M,1.002B,,2.35%,0.51,3.47
 1258,Regis Corporation,RGS,Consumer Discretionary,Specialized Consumer Services,RGS,19.64,40.23M,797.045M,8.00%,25.54%,1.26,0.78
-1259,RH,RH,Consumer Discretionary,Home Furnishing Retail,RH,106.99,21.22M,2.247B,,12.22%,1.33,
+1259,RH,RH,Consumer Discretionary,Home Furnishing Retail,RH,106.99,21.22M,2.247B,,12.22%,1.33,8.46
 1260,Transocean,RIG,Energy,Oil & Gas Drilling,RIG,8.85,610.36M,5.371B,156.50%,-27.81%,2,-0.84
 1261,RLI Corp.,RLI,Financials,Property and Casualty Insurance,RLI,79.23,44.55M,3.558B,9.80%,25.41%,0.96,2.41
 1262,"RE/MAX Holdings, Inc.",RMAX,Real Estate,Real Estate Services,RMAX,42.37,17.81M,1.314B,155.50%,-21.53%,1.09,2.23
@@ -1284,7 +1284,7 @@
 1282,"Safety Insurance Group, Inc.",SAFT,Financials,Property and Casualty Insurance,SAFT,91.58,15.38M,1.428B,15.00%,15.40%,0.67,5.75
 1283,"Sonic Automotive, Inc.",SAH,Customer Discretionary,Automotive Retail,SAH,18.63,30.96M,886.904M,0.55%,-10.25%,1.42,1.74
 1284,"Saia, Inc.",SAIA,Industrials,Trucking,SAIA,64.74,25.61M,1.694B,15.40%,-1.18%,1.24,4.63
-1285,Science Applications Intl Corp,SAIC,Information Technology,IT Consulting & Other Services,SAIC,73.68,59.32M,4.389B,,-14.16%,1.11,
+1285,Science Applications Intl Corp,SAIC,Information Technology,IT Consulting & Other Services,SAIC,73.68,59.32M,4.389B,,-14.16%,1.11,5.08
 1286,Boston Beer Company,SAM,Consumer Staples,Brewers,SAM,300.09,8.61M,3.48B,10.20%,33.84%,0.8,8.57
 1287,Sanmina Corporation,SANM,Information Technology,Electronic Manufacturing Services,SANM,30.04,68.43M,2.028B,-1.50%,1.93%,0.95,3.09
 1288,Seacoast Banking Corporation of Florida,SBCF,Financials,Regional Banks,SBCF,28.49,51.42M,1.455B,9.00%,1.12%,0.92,1.94
@@ -1296,7 +1296,7 @@
 1294,Service Corp Intl,SCI,Consumer Discretionary,Specialized Consumer Services,SCI,43.09,182.32M,7.787B,8.87%,17.69%,1.16,1.92
 1295,Stepan Company,SCL,Materials,Specialty Chemicals,SCL,88.83,22.61M,2.039B,4.40%,26.32%,0.95,5.09
 1296,"ScanSource, Inc.",SCSC,Information Technology,Technology Distributors,SCSC,37.31,25.7M,976.43M,14.00%,8.57%,0.71,3.6
-1297,"Shoe Carnival, Inc.",SCVL,Consumer Discretionary,Apparel Retail,SCVL,37.6,15.37M,576.401M,,55.19%,0.74,
+1297,"Shoe Carnival, Inc.",SCVL,Consumer Discretionary,Apparel Retail,SCVL,37.6,15.37M,576.401M,,55.19%,0.74,2.66
 1298,"SolarEdge Technologies, Inc.",SEDG,Information Technology,Semiconductor Equipment,SEDG,45.78,47.26M,2.172B,9.86%,-12.78%,0.44,2.84
 1299,SEI Investments Corp,SEIC,Financials,Asset Management & Custody Banks,SEIC,53,152.4M,8.21B,12.00%,-15.72%,1.09,3.18
 1300,Select Medical Holdings Corporation,SEM,Health Care,Healthcare Facilities,SEM,14.22,135.28M,1.972B,10.44%,-21.44%,1.08,1.04
@@ -1309,7 +1309,7 @@
 1307,Scientific Games Corporation,SGMS,Consumer Discretionary,Casinos & Gaming,SGMS,21.08,92.25M,1.992B,-74.14%,-60.38%,1.83,0.54
 1308,Shake Shack Inc.,SHAK,Consumer Discretionary,Restaurants,SHAK,61.17,29.63M,2.304B,-2.40%,27.81%,1.72,0.6
 1309,"Steven Madden, Ltd.",SHOO,Consumer Discretionary,Footwear,SHOO,35.31,85.78M,3.074B,10.00%,8.84%,0.96,1.82
-1310,Signet Jewelers,SIG,Consumer Discretionary,Specialty Stores,SIG,22.11,51.89M,1.179B,,-42.98%,1.28,
+1310,Signet Jewelers,SIG,Consumer Discretionary,Specialty Stores,SIG,22.11,51.89M,1.179B,,-42.98%,1.28,3
 1311,"Selective Insurance Group, Inc.",SIGI,Financials,Property and Casualty Insurance,SIGI,69.68,59.22M,4.148B,12.28%,17.79%,0.62,4.09
 1312,Six Flags,SIX,Consumer Discretionary,Leisure Facilities,SIX,52.15,84.23M,4.361B,6.30%,-18.06%,1.18,2.78
 1313,"South Jersey Industries, Inc.",SJI,Utilities,Gas Utilities,SJI,31.91,92.1M,2.958B,5.90%,3.01%,0.93,1.09
@@ -1323,7 +1323,7 @@
 1321,SM Energy Co,SM,Energy,Oil & Gas Exploration & Production,SM,16.23,112.25M,1.791B,324.12%,-31.27%,2.21,-0.17
 1322,Scotts Miracle-Gro Company,SMG,Materials,Fertilizers & Agricultural Chemicals,SMG,82.27,55.35M,4.613B,9.70%,-1.50%,1.24,4.21
 1323,"Standard Motor Products, Inc.",SMP,Consumer Discretionary,Auto Parts and Equipment,SMP,52.04,23.07M,1.192B,7.00%,13.54%,0.18,3.03
-1324,Semtech Corporation,SMTC,Information Technology,Semiconductors,SMTC,53.23,66.6M,3.591B,,37.02%,1.7,
+1324,Semtech Corporation,SMTC,Information Technology,Semiconductors,SMTC,53.23,66.6M,3.591B,,37.02%,1.7,1.88
 1325,Sleep Number Corporation,SNBR,Consumer Discretionary,Home Furnishing Retail,SNBR,35.31,30.87M,1.099B,11.07%,24.21%,1.64,2.45
 1326,Senior Housing Properties Trust,SNH,Real Estate,Specialized REITs,SNH,8.09,237.73M,1.923B,3.20%,-48.43%,1.15,0.27
 1327,Synovus Financial Corp (GA),SNV,Financials,Regional Banks,SNV,36.43,159.15M,5.801B,8.00%,-30.40%,1.46,3.87
@@ -1337,7 +1337,7 @@
 1335,SpartanNash Company,SPTN,Consumer Staples,Food Distributors,SPTN,16.86,36.33M,601.658M,0.43%,-7.76%,1.5,1.76
 1336,SPX Corporation,SPXC,Industrials,Industrial Machinery,SPXC,36.17,43.87M,1.607B,15.62%,14.16%,1.14,2.58
 1337,Spire Inc.,SR,Utilities,Gas Utilities,SR,82.96,50.74M,4.202B,2.37%,14.55%,0.2,3.72
-1338,SRC Energy Inc.,SRCI,Energy,Oil and Gas Exploration and Production,SRCI,6.32,243.32M,1.521B,4.74%,-42.39%,1.61,0.97
+1338,SRC Energy Inc.,SRCI,Energy,Oil and Gas Exploration and Production,SRCI,6.32,243.32M,1.526B,4.74%,-42.39%,1.61,0.97
 1339,"Surmodics, Inc.",SRDX,Health Care,Healthcare Equipment,SRDX,42.13,13.48M,577.177M,10.00%,12.50%,1.91,0.11
 1340,"Simpson Manufacturing Co., Inc.",SSD,Industrials,Building Products,SSD,62.14,45.17M,2.8B,5.00%,13.30%,1.53,3.21
 1341,The E.W. Scripps Company,SSP,Consumer Discretionary,Broadcasting,SSP,22.33,68.8M,1.829B,10.00%,100.54%,1.84,0.37
@@ -1370,7 +1370,7 @@
 1368,Teradata,TDC,Information Technology,IT Consulting & Other Services,TDC,45.1,117.64M,5.382B,11.30%,10.26%,0.96,1.49
 1369,Telephone & Data Systems Inc,TDS,Telecommunication Services,Integrated Telecommunication Services,TDS,32.17,106.64M,3.624B,86.80%,17.34%,0.48,1
 1370,Teledyne Technologies Inc,TDY,Industrials,Aerospace & Defense,TDY,247,36.22M,9.003B,29.10%,32.41%,1.27,9.35
-1371,Tech Data Corp,TECD,Information Technology,Technology Distributors,TECD,105.79,36.9M,3.934B,,38.94%,1.16,
+1371,Tech Data Corp,TECD,Information Technology,Technology Distributors,TECD,105.79,36.9M,3.934B,,38.94%,1.16,12.07
 1372,Bio-Techne,TECH,Health Care,Life Sciences Tools & Services,TECH,191.44,37.77M,7.363B,10.90%,26.75%,1.59,4.51
 1373,Teradyne,TER,Information Technology,Semiconductors,TER,47.88,173.18M,8.444B,5.63%,47.93%,1.38,2.31
 1374,Terex Corp,TEX,Industrials,Construction & Farm Machinery & Heavy Trucks,TEX,32.21,71.15M,2.337B,16.64%,-11.47%,1.85,3.88
@@ -1387,7 +1387,7 @@
 1385,"Team, Inc.",TISI,Industrials,Environmental and Facilities Services,TISI,17.18,30.25M,519.647M,11.00%,1.24%,1.4,0.05
 1386,TiVo Corporation,TIVO,Information Technology,Systems Software,TIVO,9.41,124.91M,1.195B,12.00%,-33.64%,0.67,0.83
 1387,Timken Co,TKR,Industrials,Industrial Machinery,TKR,46.75,76.11M,3.635B,2.50%,9.03%,1.78,4.84
-1388,"Tailored Brands, Inc.",TLRD,Consumer Discretionary,Apparel Retail,TLRD,7.95,50.18M,395.425M,,-74.71%,2.12,
+1388,"Tailored Brands, Inc.",TLRD,Consumer Discretionary,Apparel Retail,TLRD,7.95,50.18M,395.425M,,-74.71%,2.12,1.9
 1389,Tompkins Financial Corporation,TMP,Financials,Regional Banks,TMP,77.42,15.32M,1.231B,8.00%,-0.27%,0.94,5.42
 1390,TimkenSteel Corporation,TMST,Materials,Steel,TMST,10.23,44.76M,455.703M,-18.30%,-39.31%,2.65,0.61
 1391,Toll Brothers Inc,TOL,Consumer Discretionary,Homebuilding,TOL,37.57,145.94M,5.463B,-0.02%,-10.91%,0.59,4.43
@@ -1434,7 +1434,7 @@
 1432,United Natural Foods Inc,UNFI,Consumer Staples,Food & Staples Retailing,UNFI,12.5,50.82M,630.675M,-6.80%,-100.00%,3.06,2.07
 1433,Uniti Group,UNIT,Real Estate,Specialized REITs,UNIT,11.26,183.12M,2.15B,15.10%,-37.29%,0.98,0.27
 1434,Unit Corporation,UNT,Energy,Oil and Gas Drilling,UNT,14.28,55.72M,781.14M,44.00%,-36.11%,1.99,0.91
-1435,Urban Outfitters,URBN,Consumer Discretionary,Apparel Retail,URBN,29.62,103.56M,3.036B,,-26.45%,0.46,
+1435,Urban Outfitters,URBN,Consumer Discretionary,Apparel Retail,URBN,29.62,103.56M,3.036B,,-26.45%,0.46,2.62
 1436,"U.S. Concrete, Inc.",USCR,Materials,Construction Materials,USCR,46.21,16.62M,762.161M,10.00%,-20.92%,1.49,3
 1437,"U.S. Physical Therapy, Inc.",USPH,Health Care,Healthcare Facilities,USPH,115.27,12.76M,1.498B,12.50%,26.01%,1.37,2.87
 1438,United Therapeutics Corp,UTHR,Health Care,Biotechnology,UTHR,102.18,43.72M,4.586B,-9.50%,-7.33%,1.02,9.23
@@ -1449,7 +1449,7 @@
 1447,"Meridian Bioscience, Inc.",VIVO,Health Care,Healthcare Supplies,VIVO,12.97,42.49M,570.63M,17.00%,-11.37%,0.35,0.66
 1448,Valley National Bancorp,VLY,Financials,Regional Banks,VLY,10,331.98M,3.446B,5.00%,-20.64%,1.45,0.94
 1449,Valmont Industries Inc,VMI,Industrials,Industrial Machinery,VMI,133.76,21.95M,2.906B,10.00%,-6.36%,1.44,8.48
-1450,"Vera Bradley, Inc.",VRA,Consumer Discretionary,"Apparel, Accessories and Luxury Goods",VRA,11.69,34.16M,412.711M,,3.16%,0.76,
+1450,"Vera Bradley, Inc.",VRA,Consumer Discretionary,"Apparel, Accessories and Luxury Goods",VRA,11.69,34.16M,412.711M,,3.16%,0.76,0.69
 1451,Varex Imaging Corporation,VREX,Health Care,Healthcare Equipment,VREX,31.83,38.12M,1.23B,19.00%,-11.50%,1.67,1.37
 1452,"Virtus Investment Partners, Inc.",VRTS,Financials,Asset Management and Custody Banks,VRTS,122.62,6.98M,865.456M,8.27%,4.79%,1.63,12.66
 1453,Virtusa Corporation,VRTU,Information Technology,IT Consulting and Other Services,VRTU,53.62,29.92M,1.627B,20.00%,11.40%,1.38,2.28
@@ -1487,7 +1487,7 @@
 1485,W.R. Berkley Corp,WRB,Financials,Property & Casualty Insurance,WRB,60.54,183.02M,11.122B,11.57%,21.96%,0.72,2.62
 1486,Weingarten Realty Investors,WRI,Real Estate,Retail REITs,WRI,29.29,128.65M,3.82B,9.00%,6.30%,0.82,0.94
 1487,World Acceptance Corporation,WRLD,Financials,Consumer Finance,WRLD,128.1,8.86M,1.143B,1.50%,24.61%,1.64,3.6
-1488,Williams-Sonoma Inc,WSM,Consumer Discretionary,Homefurnishing Retail,WSM,55.73,78.56M,4.414B,,17.78%,1.09,
+1488,Williams-Sonoma Inc,WSM,Consumer Discretionary,Homefurnishing Retail,WSM,55.73,78.56M,4.414B,,17.78%,1.09,4.6
 1489,Watsco Inc,WSO,Industrials,Trading Companies & Distributors,WSO,160.21,32.14M,5.977B,15.00%,-4.53%,1.08,6.72
 1490,Whitestone REIT,WSR,Real Estate,Retail REITs,WSR,12.51,39.77M,513.98M,,14.84%,1.17,0.24
 1491,West Pharmaceutical Services,WST,Health Care,Health Care Supplies,WST,122.62,73.74M,9.12B,9.10%,38.60%,1.33,2.85
@@ -1504,4 +1504,4 @@
 1502,Alleghany Corporation,Y,Financials,Reinsurance,Y,648.82,14.46M,9.443B,8.50%,12.76%,0.68,39.5
 1503,Zebra Technologies Corp,ZBRA,Information Technology,Office Electronics,ZBRA,231,53.95M,12.364B,10.00%,71.63%,1.32,12.46
 1504,"Olympic Steel, Inc.",ZEUS,Materials,Steel,ZEUS,16.1,11.01M,174.923M,34.29%,-31.43%,2.01,1.69
-1505,Zumiez Inc.,ZUMZ,Consumer Discretionary,Apparel Retail,ZUMZ,27.31,25.52M,706.163M,,17.05%,1.32,
+1505,Zumiez Inc.,ZUMZ,Consumer Discretionary,Apparel Retail,ZUMZ,27.31,25.52M,706.163M,,17.05%,1.32,1.86
