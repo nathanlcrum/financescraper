@@ -20,7 +20,7 @@ def main():
 
     urlbase = 'https://finance.yahoo.com/quote/'
     columns = ['Ticker', 'Price', 'Shares Outstanding', 'Market Cap', 'Expected Growth - 5 Year',
-               'Last 12 Month Return', 'Beta', 'Avg Current Estimate']
+               'Last 12 Month Return', 'Beta', 'Avg Current Estimate', 'EPS']
     csv_writer.writerow(columns)
 
     for index, row in sp1500symbols.iterrows():
@@ -39,6 +39,7 @@ def main():
         marketcap = na
         twelvemonthreturn = na
         sharesos = na
+        eps = na
 
         try:
             # read home url and get price and marketcap
@@ -48,6 +49,7 @@ def main():
 
             # read stats url
             statdata = pd.read_html(urlstats)
+            eps = statdata[4][1][6]
             beta = statdata[7][1][0]
             twelvemonthreturn = statdata[7][1][1]
             sharesos = statdata[8][1][2]
@@ -64,8 +66,9 @@ def main():
             print(str(e) + ' with ' + symbol)
 
         # write to csv_writer
-        stocklist = [symbol, price, sharesos, marketcap, expectedepsfiveyear, twelvemonthreturn, beta, avgcurrest]
+        stocklist = [symbol, price, sharesos, marketcap, expectedepsfiveyear, twelvemonthreturn, beta, avgcurrest, eps]
         csv_writer.writerow(stocklist)
+
 
     # combine df and sp1500 for your final thingy
     output.seek(0)
