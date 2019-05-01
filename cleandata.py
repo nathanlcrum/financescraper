@@ -29,9 +29,7 @@ def cleanpercent(z):
 
     if z == '-':
         return z
-    print(z)
     per = re.split('%', z)
-    print(per[0])
     if per[0][0].isdigit() or per[0][0] == '-':
         return float(per[0]) / 100
     return '-'
@@ -57,7 +55,7 @@ def emptytodash(a):
 
 def main():
 
-    df = pd.read_csv('sp1500data.csv')
+    df = pd.read_csv('sp1500data.csv', index_col=0)
 
     #df[] is a series and uses apply
     #df[[]] is a dataframe and uses applymap
@@ -72,7 +70,7 @@ def main():
     df['Expected Growth - 5 Year'] = df['Expected Growth - 5 Year'].apply(lambda x: cleanpercent(x))
     df['Last 12 Month Return'] = df['Last 12 Month Return'].apply(lambda x: cleanpercent(x))
 
-    df.to_csv('sp1500clean.csv')
+    df.to_csv('sp1500clean.csv', index=False)
 
 
 if True:
